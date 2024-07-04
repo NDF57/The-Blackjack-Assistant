@@ -1,4 +1,6 @@
-numpy
-opencv-python
-matplotlib
 Flask
+opencv-python
+numpy
+pygetwindow
+Pillow
+requests
